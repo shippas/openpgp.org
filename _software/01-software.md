@@ -21,6 +21,7 @@ No security audits have been done by us and, thus, we cannot provide any securit
   * [gpg4o](/software/gpg4o/)
   * [Gpg4win](/software/gpg4win/)
   * [p≡p](/software/pep/)
+* [SecureMyEmail](/software/securemyemail/)
 * Thunderbird:
   * [Autocrypt](/software/autocrypt/)
   * [Enigmail](/software/enigmail/)
@@ -29,6 +30,7 @@ No security audits have been done by us and, thus, we cannot provide any securit
 * [Apple Mail: GPGTools](/software/gpgtools/)
 * [Canary Mail](/software/canary-mail/)
 * [Mutt](/software/mutt/)
+* [SecureMyEmail](/software/securemyemail/)
 * Thunderbird:
   * [Autocrypt](/software/autocrypt/)
   * [Enigmail](/software/enigmail/)
@@ -38,10 +40,12 @@ No security audits have been done by us and, thus, we cannot provide any securit
 * [K-9 Mail: OpenKeychain](/software/openkeychain/)
 * [p≡p](/software/pep/)
 * [R2Mail2](/software/r2mail2/)
+* [SecureMyEmail](/software/securemyemail/)
 
 ## iOS
 * [Canary Mail](/software/canary-mail/)
 * [iPGMail](/software/ipgmail/)
+* [SecureMyEmail](/software/securemyemail/)
 
 ## Linux
 * [Evolution: Seahorse](/software/seahorse/)
