@@ -12,8 +12,8 @@ Canary Mail for Mac and iOS implements the OpenPGP standard. Encryption and decr
 * Developer/Publisher: WiTopia, Inc.
 * License: Proprietary (Closed Source)
 * Encryption Library:
-        * Golang OpenPGP for WebApp, iOS
-        * Bouncy Castle for Android
+  * Golang OpenPGP for WebApp, iOS
+  * Bouncy Castle for Android
 * Price:
 	* $3.99/month
 	* $29.99/year
